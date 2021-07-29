@@ -10,5 +10,6 @@ Loan approval is an important process for banking organizations. The system appr
 This project is build by using Artificial Neural Networks(ANN).
 #Demo video link:
 https://drive.google.com/drive/folders/1lpm37Lj0_920KfDLZGO8iaNbV--Vp22u?usp=sharing
+
 #Data Set Drive Link:
 https://drive.google.com/drive/folders/1lpm37Lj0_920KfDLZGO8iaNbV--Vp22u?usp=sharing
