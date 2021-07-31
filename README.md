@@ -1,7 +1,9 @@
-LOAN STATUS PREDICTION USING EXPLORATORY DATA ANALYSIS
+LOAN STATUS PREDICTION USING EXPLORATORY DATA ANALYSIS:
+
 The aim of our project is to build a web application to predict find the nature of the client applying for a personal loan.
 
 Description:
+
 Loan approval is an important process for banking organizations. The system approved or reject the loan applications. So, for a bank employee with this application can easily come to a decision whether the applicant is eligible or not. It is difficult to predict the possibility of payment of loan by the customer. Using Artificial Neural Network (ANN) we can predict the loan status of applicant.
 
 Web Application Screen Shots
@@ -12,8 +14,10 @@ Web Application Screen Shots
 This project is build by using Artificial Neural Networks(ANN).
 
 Demo video link:
+
 https://drive.google.com/drive/folders/1QzaextGFpZT9qvW96iwTXWg5iLFquUgT?usp=sharing
 
 
 Data Set Drive Link:
+
 https://drive.google.com/drive/folders/1lpm37Lj0_920KfDLZGO8iaNbV--Vp22u?usp=sharing
